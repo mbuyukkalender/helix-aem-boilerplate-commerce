@@ -3555,6 +3555,6 @@ items:structuredClone(n.items),categories:structuredClone(n.categories),block:e,
                     </ul>
                 </td>
             </tr>
-        </table>`,selection:"multiple",type:"folder"}},getCategories:yf,getItems:yp,configFile:" https://main--aem-boilerplate-commerce--hlxsites.hlx.live/configs.json",defaultConfig:"prod"}),ym);//# sourceMappingURL=index.6210969e.js.map
+        </table>`,selection:"multiple",type:"folder"}},getCategories:yf,getItems:yp,configFile:" https://main--helix-aem-boilerplate-commerce--mbuyukkalender.hlx.live/configs.json",defaultConfig:"prod"}),ym);//# sourceMappingURL=index.6210969e.js.map
 
 //# sourceMappingURL=index.6210969e.js.map
